@@ -1,7 +1,3 @@
-Here’s an updated version of the README file that includes information about the `Bank.ipynb` file:
-
----
-
 # Bank Card Predictor Web App
 
 This repository contains a web application for predicting bank card attributes using a trained model. The application is built with Django. The model is trained using a Jupyter notebook named `Bank.ipynb`.
