@@ -1,4 +1,4 @@
-# Bank Card Predictor Web App
+# Bank Card Predictor
 
 This repository contains a web application for predicting bank card attributes using a trained model. The application is built with Django. The model is trained using a Jupyter notebook named `Bank.ipynb`.
 
